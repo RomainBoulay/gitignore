@@ -1,6 +1,7 @@
 # OS X
 .DS_Store
 
+
 # Xcode
 build/
 *.pbxuser
@@ -17,6 +18,7 @@ profile
 *.moved-aside
 DerivedData
 *.hmap
+
 
 # CocoaPods
 Pods
